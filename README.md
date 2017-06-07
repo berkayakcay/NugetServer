@@ -1,0 +1,2 @@
+# NugetServer
+Local NugetServer
